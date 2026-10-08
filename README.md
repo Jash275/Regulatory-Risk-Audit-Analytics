@@ -244,13 +244,3 @@ It combines:
 The objective is not to act as a developer, but as a risk and audit professional capable of using data analytics to challenge processes, test controls and generate better audit evidence.
 
 ---
-
-## Interview Explanation
-
-I created this project to demonstrate how data analytics can support Internal Audit in financial risk and regulatory risk reviews.
-
-The project uses synthetic banking data and follows a simplified audit workflow: data generation, SQL-based control testing, Python-based exception consolidation and audit-style reporting.
-
-The areas covered include Capital & RWA, ICAAP, RAF, ILAAP and IFRS 9.
-
-The main objective is not to replicate full regulatory models, but to show how Internal Audit can use SQL and Python to identify exceptions, assess control weaknesses, prioritise findings and support professional judgement with structured evidence.
